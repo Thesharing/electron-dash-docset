@@ -16,3 +16,5 @@ userdata/pushbullet_api_token.txt
 logs
 error.log
 warning.log
+
+.idea
